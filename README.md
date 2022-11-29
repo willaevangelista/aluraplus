@@ -13,7 +13,7 @@
 <p align="center"> <img src="https://camo.githubusercontent.com/471986f6d0fc859a2625aaafbdf609e3aceec43518e1f18d5fc89a0bfa875b4f/68747470733a2f2f696d6775722e636f6d2f6e4b5566374d4b2e706e67" alt="Com o Combo+, você pode aproveitar a Alura+ e o Alura Língua por um preço único"> </p>
 
 ## Descrição do Projeto
-* Projeto feito durante o curso de "HTML e CSS: praticando HTML/CSS" da Alura, replicando o design compartilhado pelo figma. 
+* Projeto feito durante o curso de "HTML e CSS: praticando HTML/CSS" da Alura, replicando o design compartilhado pelo Figma. 
 
 ## Tecnologias utilizadas
 * HTML
