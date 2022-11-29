@@ -16,3 +16,7 @@
 ## Tecnologias utilizadas
 * HTML
 * CSS 
+
+## Compartilhamento do Projeto Desenvolvido
+
+* Para uma melhor visualização do trabalho feito até o momento, basta acessar o site clicando <a href="https://willaevangelista.github.io/aluraplus/">aqui.</a>
